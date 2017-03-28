@@ -15,7 +15,7 @@ baseurl: '/resume' #change it according to your repository name
 #Profile information
 name: 沈 益飞
 tagline: PHP初级开发工程师
-pic: https://avatars3.githubusercontent.com/u/15150683?v=3&u=2e440f0f0fe3105ecfd3b5caf3322dbbbfa44eba&s=400  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: 809745357@qq.com
