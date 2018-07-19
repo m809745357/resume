@@ -1,6 +1,6 @@
 
 title: My Resume
-url: 'http://m809745357.github.com/resume'
+url: 'https://m809745357.github.com/resume'
 baseurl: '/resume' #change it according to your repository name
 
 
@@ -14,7 +14,7 @@ baseurl: '/resume' #change it according to your repository name
 
 #Profile information
 name: 沈 益飞
-tagline: PHP初级开发工程师
+tagline: WEB全栈开发工程师
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
